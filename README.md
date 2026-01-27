@@ -1,3 +1,3 @@
 
-![TNTwise's GitHub stats](https://pixel-profile-ui.vercel.app/api/github-stats?username=tntwise&rank_icon=percentile)
+![TNTwise's GitHub stats](./profile/stats.svg)
  [![TNTwise profile views](https://u8views.com/api/v1/github/profiles/77559100/views/day-week-month-total-count.svg)](https://u8views.com/github/TNTwise) 
