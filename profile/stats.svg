@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Paxson G's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1946, Total Commits  (last year) : 922, Total PRs: 85, Total Issues: 15, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 1948, Total Commits  (last year) : 922, Total PRs: 85, Total Issues: 15, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.399070892398264;
+        stroke-dashoffset: 62.39697019941836;
       }
     }
   
